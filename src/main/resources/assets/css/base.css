@@ -1,0 +1,8 @@
+:root {
+    --black-color: #000;
+    --white-color: #fff;
+}
+.text-decoration {
+    text-decoration: none;
+    color: var(--black-color);
+}
